@@ -9,7 +9,7 @@ As an IoT expert with a passion for electronics, I'm always exploring new ways t
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [Rezabargi@gmail.com](mailto:Rezabargi@gmail.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Smart home project
+* 🤝  I'm open to collaborating on IoT projects
 
 ### Skills
 

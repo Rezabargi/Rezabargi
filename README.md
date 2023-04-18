@@ -9,7 +9,7 @@ I've been learning embedded system programming since 2020. Currently I focus on 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [Rezabargi@gmail.com](mailto:Rezabargi@gmail.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Smart home
+* 🤝  I'm open to collaborating on Smart home project
 
 ### Skills
 

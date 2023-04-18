@@ -4,7 +4,7 @@ Hi 👋 My name is Reza Bargi
 Flutter developer - IoT expert
 ------------------------------
 
-As an IoT expert with a passion for electronics, I'm always exploring new ways to integrate cutting-edge technology into our daily lives. Currently, I'm expanding my skills by learning Dart and Flutter, which will allow me to create robust and intuitive user interfaces for IoT devices. With experience in both hardware and software development, I bring a unique perspective to every project I work on. From conceptualization to deployment, I'm dedicated to delivering innovative solutions that make a real difference in people's lives. Follow me to see how I'm shaping the future of IoT! 
+As an IoT expert with a passion for electronics, I'm always exploring new ways to integrate cutting-edge technology into our daily lives. Currently, I'm expanding my skills by learning Dart and Flutter, which will allow me to create شttractive and professional user interfaces for IoT devices. With experience in both hardware and software development, I bring a unique perspective to every project I work on. From conceptualization to deployment, I'm dedicated to delivering innovative solutions that make a real difference in people's lives. Follow me to see how I'm shaping the future of IoT! 
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [Rezabargi@gmail.com](mailto:Rezabargi@gmail.com)
